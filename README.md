@@ -1,5 +1,5 @@
 # 30-line-code.java
-[![Logo](/android.png)](https://alixaprodev.com/)
+[![Logo](/java.png)](https://alixaprodev.com/)
 
 # 30 Lines of code
 
