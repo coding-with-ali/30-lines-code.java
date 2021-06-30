@@ -1,0 +1,10 @@
+1 Irfan 15 35 15
+2 Ali 25 39 12
+3 Javid 26 45 13
+4 Saif 27 29 15
+5 Kamal 21 37 19
+6 Mian 27 26 09
+7 Guru 05 41 11
+8 Faizan 19 33 14
+9 Shams 10 50 10
+10 jawad 12 40 11

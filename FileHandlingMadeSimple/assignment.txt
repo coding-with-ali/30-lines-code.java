@@ -1,0 +1,9 @@
+how synchronization works. in operating system and what are the ways. different ways of sync in the processes and threads
+Single Writer, Multiple Readers. support of this in java. explicit lock concept.
+
+
+what are the different ways of synchronization among threads/Processes.
+
+How can we implement the single Writer, Multiple Readers Problem in Java.
+
+
